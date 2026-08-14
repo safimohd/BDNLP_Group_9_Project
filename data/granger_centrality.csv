@@ -1,0 +1,20 @@
+department,out_degree,in_degree,net_leadership
+alcohol,2,5,-3
+babies,1,8,-7
+bakery,1,11,-10
+beverages,8,3,5
+breakfast,3,14,-11
+bulk,11,10,1
+canned goods,7,5,2
+dairy eggs,3,7,-4
+deli,4,4,0
+dry goods pasta,15,3,12
+frozen,11,4,7
+household,13,6,7
+international,12,3,9
+meat seafood,5,4,1
+pantry,4,6,-2
+personal care,1,11,-10
+pets,3,3,0
+produce,5,7,-2
+snacks,8,3,5

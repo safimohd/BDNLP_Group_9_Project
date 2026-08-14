@@ -1,0 +1,101 @@
+source,target,lag,r,p_raw,p_adj,significant_fdr
+international,meat seafood,2,0.4856,0.00149,0.33972,False
+bakery,deli,4,0.4772,0.00245,0.42921,False
+babies,pantry,2,0.4649,0.00251,0.42921,False
+alcohol,beverages,3,0.4362,0.00551,0.51938,False
+household,frozen,4,0.4352,0.00632,0.51938,False
+meat seafood,alcohol,4,0.4291,0.00718,0.51938,False
+alcohol,produce,2,0.4261,0.00612,0.51938,False
+personal care,bakery,2,0.4219,0.00669,0.51938,False
+pantry,personal care,4,0.4163,0.00933,0.51938,False
+pets,babies,3,0.4158,0.00848,0.51938,False
+snacks,personal care,1,0.408,0.0081,0.51938,False
+dry goods pasta,frozen,4,0.4,0.01283,0.51938,False
+pantry,deli,3,0.3992,0.01181,0.51938,False
+canned goods,household,4,0.3925,0.01478,0.51938,False
+babies,beverages,1,0.3902,0.01166,0.51938,False
+meat seafood,personal care,1,0.3888,0.012,0.51938,False
+bulk,beverages,1,0.3868,0.01248,0.51938,False
+snacks,household,1,0.3865,0.01254,0.51938,False
+beverages,deli,4,0.379,0.01894,0.51938,False
+pantry,household,4,0.378,0.01928,0.51938,False
+breakfast,alcohol,2,0.3758,0.01686,0.51938,False
+canned goods,personal care,4,0.3737,0.02081,0.51938,False
+dry goods pasta,pantry,1,0.3712,0.01687,0.51938,False
+pantry,dry goods pasta,3,0.3684,0.021,0.51938,False
+snacks,babies,3,0.3662,0.02185,0.51938,False
+breakfast,meat seafood,1,0.3656,0.01875,0.51938,False
+deli,snacks,2,0.3653,0.02046,0.51938,False
+bulk,alcohol,3,0.3645,0.02254,0.51938,False
+bakery,bulk,3,0.362,0.02353,0.52614,False
+pantry,babies,1,0.3574,0.0218,0.51938,False
+dry goods pasta,beverages,3,0.3571,0.02563,0.53642,False
+babies,snacks,1,0.3516,0.02417,0.52614,False
+bulk,pantry,2,0.3473,0.02812,0.54955,False
+deli,pets,3,0.3464,0.03077,0.56994,False
+bakery,frozen,1,0.3462,0.02659,0.54205,False
+produce,international,3,0.3423,0.03294,0.5886,False
+dry goods pasta,canned goods,1,0.3394,0.02995,0.56994,False
+personal care,household,4,0.3381,0.03786,0.63941,False
+household,personal care,4,0.3285,0.04403,0.64767,False
+frozen,babies,1,0.3269,0.03697,0.63219,False
+snacks,pets,3,0.3252,0.04338,0.64767,False
+international,personal care,3,0.3235,0.04458,0.64878,False
+pantry,produce,1,0.3234,0.03914,0.64527,False
+canned goods,household,2,0.3232,0.0419,0.64767,False
+babies,bakery,1,0.322,0.04008,0.64598,False
+produce,frozen,1,0.3212,0.0406,0.64598,False
+dry goods pasta,snacks,4,0.321,0.0494,0.66194,False
+canned goods,produce,1,0.3113,0.04761,0.66194,False
+personal care,produce,1,0.3085,0.04971,0.66194,False
+pets,personal care,3,-0.317,0.04929,0.66194,False
+frozen,alcohol,2,-0.3182,0.04537,0.65333,False
+dairy eggs,frozen,4,-0.3239,0.04726,0.66194,False
+pantry,bakery,3,-0.3249,0.04357,0.64767,False
+bakery,dry goods pasta,3,-0.3274,0.04188,0.64767,False
+pantry,alcohol,2,-0.3275,0.03915,0.64527,False
+produce,dairy eggs,3,-0.3294,0.04061,0.64598,False
+snacks,produce,1,-0.3304,0.03487,0.61157,False
+beverages,international,4,-0.3305,0.04273,0.64767,False
+meat seafood,beverages,4,-0.3311,0.04229,0.64767,False
+snacks,canned goods,3,-0.3357,0.03668,0.63219,False
+snacks,international,1,-0.3389,0.03017,0.56994,False
+dry goods pasta,alcohol,1,-0.3446,0.02734,0.54205,False
+dry goods pasta,babies,4,-0.3464,0.03313,0.5886,False
+meat seafood,bakery,4,-0.348,0.03229,0.5886,False
+personal care,alcohol,2,-0.3495,0.02705,0.54205,False
+frozen,dairy eggs,4,-0.3508,0.03083,0.56994,False
+dairy eggs,bakery,2,-0.3521,0.02588,0.53642,False
+babies,pantry,1,-0.3549,0.02278,0.51938,False
+alcohol,personal care,2,-0.3558,0.02423,0.52614,False
+dry goods pasta,breakfast,1,-0.3559,0.0224,0.51938,False
+babies,personal care,4,-0.3621,0.02547,0.53642,False
+dry goods pasta,deli,1,-0.3632,0.01961,0.51938,False
+bulk,alcohol,2,-0.3641,0.02092,0.51938,False
+breakfast,canned goods,2,-0.3646,0.02071,0.51938,False
+dairy eggs,snacks,2,-0.3684,0.01934,0.51938,False
+deli,pets,1,-0.3718,0.01668,0.51938,False
+bakery,deli,3,-0.3725,0.01954,0.51938,False
+babies,pantry,4,-0.3748,0.02044,0.51938,False
+alcohol,beverages,2,-0.3762,0.01673,0.51938,False
+pantry,personal care,1,-0.3777,0.0149,0.51938,False
+deli,frozen,3,-0.3807,0.01679,0.51938,False
+international,dairy eggs,3,-0.3856,0.01535,0.51938,False
+dry goods pasta,snacks,1,-0.3858,0.01273,0.51938,False
+personal care,produce,4,-0.3858,0.01674,0.51938,False
+babies,frozen,4,-0.3881,0.01604,0.51938,False
+household,dairy eggs,4,-0.3908,0.01526,0.51938,False
+breakfast,international,4,-0.3993,0.01302,0.51938,False
+canned goods,produce,2,-0.4046,0.0096,0.51938,False
+breakfast,dry goods pasta,1,-0.405,0.00861,0.51938,False
+household,produce,4,-0.4057,0.0115,0.51938,False
+deli,dry goods pasta,1,-0.4062,0.00842,0.51938,False
+canned goods,dairy eggs,4,-0.4072,0.01117,0.51938,False
+deli,canned goods,2,-0.4128,0.00811,0.51938,False
+pantry,deli,4,-0.4148,0.00961,0.51938,False
+deli,pets,4,-0.4446,0.00517,0.51938,False
+personal care,household,1,-0.4828,0.00139,0.33972,False
+beverages,snacks,2,-0.5011,0.00099,0.33858,False
+pets,babies,4,-0.5407,0.00046,0.20976,False
+bakery,bulk,4,-0.5642,0.00022,0.15048,False
+babies,bakery,2,-0.5909,6e-05,0.08208,False

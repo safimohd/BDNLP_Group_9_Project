@@ -1,0 +1,18 @@
+{
+  "alcohol": {
+    "mape": 7.68,
+    "rmse": 0.00326
+  },
+  "beverages": {
+    "mape": 4.01,
+    "rmse": 0.07011
+  },
+  "snacks": {
+    "mape": 3.8,
+    "rmse": 0.08762
+  },
+  "breakfast": {
+    "mape": 5.11,
+    "rmse": 0.02185
+  }
+}

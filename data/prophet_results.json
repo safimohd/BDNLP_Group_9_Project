@@ -1,0 +1,78 @@
+{
+  "alcohol": {
+    "mape": 8.5,
+    "rmse": 0.00359
+  },
+  "babies": {
+    "mape": 4.73,
+    "rmse": 0.01663
+  },
+  "bakery": {
+    "mape": 9.0,
+    "rmse": 0.05597
+  },
+  "beverages": {
+    "mape": 5.32,
+    "rmse": 0.09384
+  },
+  "breakfast": {
+    "mape": 9.18,
+    "rmse": 0.03469
+  },
+  "bulk": {
+    "mape": 6.58,
+    "rmse": 0.00167
+  },
+  "canned goods": {
+    "mape": 20.24,
+    "rmse": 0.09152
+  },
+  "dairy eggs": {
+    "mape": 5.87,
+    "rmse": 0.19779
+  },
+  "deli": {
+    "mape": 6.12,
+    "rmse": 0.03513
+  },
+  "dry goods pasta": {
+    "mape": 13.85,
+    "rmse": 0.05729
+  },
+  "frozen": {
+    "mape": 9.39,
+    "rmse": 0.10392
+  },
+  "household": {
+    "mape": 10.29,
+    "rmse": 0.0385
+  },
+  "international": {
+    "mape": 11.82,
+    "rmse": 0.01622
+  },
+  "meat seafood": {
+    "mape": 14.88,
+    "rmse": 0.04456
+  },
+  "pantry": {
+    "mape": 10.74,
+    "rmse": 0.09783
+  },
+  "personal care": {
+    "mape": 12.68,
+    "rmse": 0.02776
+  },
+  "pets": {
+    "mape": 12.83,
+    "rmse": 0.00551
+  },
+  "produce": {
+    "mape": 7.04,
+    "rmse": 0.42646
+  },
+  "snacks": {
+    "mape": 10.31,
+    "rmse": 0.16675
+  }
+}

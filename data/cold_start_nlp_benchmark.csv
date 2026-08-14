@@ -1,0 +1,5 @@
+Model,MAE,RMSE,WAPE (%)
+Naive: Always 1 Unit,0.166,0.503,14.24
+Department Average,4.73,9.58,405.7
+TF-IDF Weighted Mean,6.16,28.906,528.32
+TF-IDF Analogue Median,2.17,6.495,186.08

@@ -1,0 +1,20 @@
+department,adf_statistic,adf_pvalue,stationary_at_5pct
+alcohol,-2.735,0.0682,False
+babies,4.0305,1.0,False
+bakery,-0.4065,0.909,False
+beverages,1.0434,0.9947,False
+breakfast,-0.179,0.941,False
+bulk,-0.0247,0.9564,False
+canned goods,-0.7207,0.8413,False
+dairy eggs,0.7014,0.9899,False
+deli,-1.1204,0.7069,False
+dry goods pasta,0.2881,0.9768,False
+frozen,-2.5156,0.1117,False
+household,-0.1067,0.9488,False
+international,-1.1244,0.7052,False
+meat seafood,-1.7247,0.4184,False
+pantry,-1.3134,0.623,False
+personal care,-0.4853,0.8949,False
+pets,-3.3635,0.0123,True
+produce,0.5774,0.987,False
+snacks,0.0152,0.9598,False
